@@ -1,0 +1,12 @@
+[
+  {
+    "model": "linear",
+    "mean_conf_correct": 0.8924009515608425,
+    "mean_conf_wrong": null
+  },
+  {
+    "model": "kernel",
+    "mean_conf_correct": 0.899884536373429,
+    "mean_conf_wrong": null
+  }
+]

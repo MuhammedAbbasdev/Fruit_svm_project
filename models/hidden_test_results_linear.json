@@ -1,0 +1,29 @@
+{
+  "accuracy": 1.0,
+  "per_class": {
+    "apple": {
+      "correct": 40,
+      "total": 40
+    },
+    "banana": {
+      "correct": 40,
+      "total": 40
+    },
+    "grape": {
+      "correct": 40,
+      "total": 40
+    },
+    "mango": {
+      "correct": 40,
+      "total": 40
+    },
+    "orange": {
+      "correct": 40,
+      "total": 40
+    },
+    "strawberry": {
+      "correct": 40,
+      "total": 40
+    }
+  }
+}
